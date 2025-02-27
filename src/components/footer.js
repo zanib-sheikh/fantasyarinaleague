@@ -48,7 +48,7 @@ const Footer = () => {
           
           <ul className="flex gap-4 flex-wrap mt-4 justify-center">
             <li>
-              <a href="https://twitter.com/login" target="_blank" rel="noopener noreferrer" className="bg-white hover:bg-gray-400 w-10 h-10 flex items-center justify-center rounded-full shadow-md">
+              <a href="https://x.com/fantasyarename?s=11&t=Ki3WzGnsw_ZYnwlpBQI4uQ" target="_blank" rel="noopener noreferrer" className="bg-white hover:bg-gray-400 w-10 h-10 flex items-center justify-center rounded-full shadow-md">
                 <img src={twitter} alt="Twitter" className="w-5 h-5" />
               </a>
             </li>
@@ -58,7 +58,7 @@ const Footer = () => {
               </a>
             </li>
             <li>
-              <a href="https://www.facebook.com/login" target="_blank" rel="noopener noreferrer" className="bg-white hover:bg-gray-400 w-10 h-10 flex items-center justify-center rounded-full shadow-md">
+              <a href="https://facebook.com/61573758475898" target="_blank" rel="noopener noreferrer" className="bg-white hover:bg-gray-400 w-10 h-10 flex items-center justify-center rounded-full shadow-md">
                 <img src={facebook} alt="Facebook" className="w-5 h-5" />
               </a>
             </li>
